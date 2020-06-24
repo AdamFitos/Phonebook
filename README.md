@@ -1,2 +1,3 @@
 # Phonebook
-The phone book program basic makes in the sanfranciscoboljottem.com javafx intermediate tutorial.
+You can upload/handel personal data and you can generate a pdf file from them. 
+source: sanfranciscoboljottem.com
